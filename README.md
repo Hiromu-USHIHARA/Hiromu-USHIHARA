@@ -12,3 +12,5 @@
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hiromu-Ushihara&repo=introMCWF&show_owner=true)](https://github.com/Hiromu-USHIHARA/introMCWF.git)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hiromu-Ushihara&repo=web-monitor&show_owner=true)](https://github.com/Hiromu-USHIHARA/web-monitor.git)
