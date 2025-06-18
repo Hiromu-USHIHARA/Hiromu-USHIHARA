@@ -5,5 +5,4 @@
 
 ## Web page
 
-- Zenn (tech blog)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hiromu-Ushihara)](https://zenn.dev/hiromu_ushihara)
+- [Zenn (tech blog)](https://zenn.dev/hiromu_ushihara)
