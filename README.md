@@ -13,5 +13,6 @@
 
 ### Picked-up contents
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hiromu-Ushihara&repo=introMCWF&show_owner=true)](https://github.com/Hiromu-USHIHARA/introMCWF.git)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hiromu-Ushihara&repo=web-monitor&show_owner=true)](https://github.com/Hiromu-USHIHARA/web-monitor.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hiromu-Ushihara&repo=introMCWF&show_owner=true)](https://github.com/Hiromu-USHIHARA/introMCWF)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hiromu-Ushihara&repo=web-monitor&show_owner=true)](https://github.com/Hiromu-USHIHARA/web-monitor)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hiromu-Ushihara&repo=ReactBlackJack&show_owner=true)](https://github.com/Hiromu-USHIHARA/ReactBlackJack)
