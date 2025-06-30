@@ -9,6 +9,7 @@
 ### Web page
 
 - [Zenn (tech blog)](https://zenn.dev/hiromu_ushihara)
+   - [![Dashboard@Vercel](https://vercelbadge.vercel.app/api/Hiromu-USHIHARA/zenn-dashboard)](https://zenn-dashboard.vercel.app/)
 
 
 ### Picked-up contents
