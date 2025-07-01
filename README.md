@@ -16,3 +16,9 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hiromu-Ushihara&repo=introMCWF&show_owner=false)](https://github.com/Hiromu-USHIHARA/introMCWF)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hiromu-Ushihara&repo=web-monitor&show_owner=false)](https://github.com/Hiromu-USHIHARA/web-monitor)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hiromu-Ushihara&repo=ReactBlackJack&show_owner=false)](https://github.com/Hiromu-USHIHARA/ReactBlackJack)
+
+
+### Deployed Apps
+- Zenn dashboard [![Dashboard@Vercel](https://vercelbadge.vercel.app/api/Hiromu-USHIHARA/zenn-dashboard)](https://zenn-dashboard.vercel.app/)
+- Blackjack [![Blackjack@Vercel](https://vercelbadge.vercel.app/api/Hiromu-USHIHARA/ReactBlackJack)](https://react-black-jack.vercel.app/)
+- Quiz of Boy Scouts' tracking signs [![ScoutTrackingQuiz@Vercel](https://vercelbadge.vercel.app/api/Hiromu-USHIHARA/ScoutTrackingQuiz)](https://scout-tracking-quiz.vercel.app/)
