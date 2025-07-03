@@ -15,7 +15,6 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hiromu-Ushihara&repo=introMCWF&show_owner=false)](https://github.com/Hiromu-USHIHARA/introMCWF)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hiromu-Ushihara&repo=web-monitor&show_owner=false)](https://github.com/Hiromu-USHIHARA/web-monitor)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hiromu-Ushihara&repo=ReactBlackJack&show_owner=false)](https://github.com/Hiromu-USHIHARA/ReactBlackJack)
 
 
 ### Deployed Apps
