@@ -24,3 +24,4 @@
 - Zenn dashboard [![Dashboard@Vercel](https://vercelbadge.vercel.app/api/Hiromu-USHIHARA/zenn-dashboard)](https://zenn-dashboard.vercel.app/)
 - Blackjack [![Blackjack@Vercel](https://vercelbadge.vercel.app/api/Hiromu-USHIHARA/ReactBlackJack)](https://react-black-jack.vercel.app/)
 - Quiz of Boy Scouts' tracking signs [![ScoutTrackingQuiz@Vercel](https://vercelbadge.vercel.app/api/Hiromu-USHIHARA/ScoutTrackingQuiz)](https://scout-tracking-quiz.vercel.app/)
+- Sabacc (card game from Star Wars) [![Sabacc@Vercel](https://vercelbadge.vercel.app/api/Hiromu-USHIHARA/sabacc-fan-project)](https://sabacc-fan-project.vercel.app/)
