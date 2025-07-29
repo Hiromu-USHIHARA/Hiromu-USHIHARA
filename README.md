@@ -18,7 +18,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hiromu-Ushihara&repo=introMCWF&show_owner=false)](https://github.com/Hiromu-USHIHARA/introMCWF)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hiromu-Ushihara&repo=web-monitor&show_owner=false)](https://github.com/Hiromu-USHIHARA/web-monitor)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hiromu-Ushihara&repo=MarpToPdf&show_owner=false)](https://github.com/Hiromu-USHIHARA/MarpToPdf)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hiromu-Ushihara&repo=sabacc-fan-project&show_owner=false)](https://github.com/Hiromu-USHIHARA/sabacc-fan-project)
 
 
 
